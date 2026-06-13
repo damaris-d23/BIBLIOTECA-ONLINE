@@ -1,0 +1,17 @@
+ro\damaris\biblioteca\model\Carte.class
+ro\damaris\biblioteca\repository\UserRepository.class
+ro\damaris\biblioteca\ui\AdminView.class
+ro\damaris\biblioteca\repository\BookRepository.class
+ro\damaris\biblioteca\model\Imprumut.class
+ro\damaris\biblioteca\ui\LibraryView.class
+ro\damaris\biblioteca\model\Utilizator.class
+ro\damaris\biblioteca\Main.class
+ro\damaris\biblioteca\model\Cititor.class
+ro\damaris\biblioteca\repository\LoanRepository.class
+ro\damaris\biblioteca\db\DbManager.class
+ro\damaris\biblioteca\ui\RegisterView.class
+ro\damaris\biblioteca\ui\LoginView.class
+ro\damaris\biblioteca\service\Biblioteca.class
+ro\damaris\biblioteca\ui\LibraryView$1.class
+ro\damaris\biblioteca\ui\MainFx.class
+ro\damaris\biblioteca\service\BibliotecaService.class
